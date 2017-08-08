@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "d945a684_88c8678a",
+        "filename": "src/Puzzle.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 1011993
+      },
+      "writtenOn": "2017-08-08T06:34:22Z",
+      "side": 1,
+      "message": "Check this again",
+      "range": {
+        "startLine": 17,
+        "startChar": 24,
+        "endLine": 17,
+        "endChar": 25
+      },
+      "revId": "f040f980c2d7ac7e7be649d5a9fb3cec4f3c8932",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
