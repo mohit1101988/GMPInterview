@@ -16,6 +16,7 @@ public class Puzzle {
 		 * give out the result
 		 * Extra Line Comment: Need to be ignored
 		 * Another extra line: Need to be ignored
+		 * Next Comment Line: Need to be ignored
 		 */
 
 		int []input = {1,4,2,3,8,9,5};
