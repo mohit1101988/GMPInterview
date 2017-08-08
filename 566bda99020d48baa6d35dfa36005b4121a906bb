@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "25bac3d9_044e6201",
+        "filename": "src/Puzzle.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 1011993
+      },
+      "writtenOn": "2017-08-08T08:30:40Z",
+      "side": 1,
+      "message": "Add for TOTP as well.",
+      "revId": "566bda99020d48baa6d35dfa36005b4121a906bb",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
